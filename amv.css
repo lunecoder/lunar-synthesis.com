@@ -1,0 +1,226 @@
+body{
+
+   background: radial-gradient(#201422 2px,transparent 2px);
+   background-color: #130715;
+   background-size: 35px 35px;
+   margin: 0px;
+
+}
+
+
+.main{
+
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   overflow: hideden;
+
+}
+
+
+
+.glitch{
+
+   position: absolute;
+   width: 100%;
+   height: 40%;
+   top: 0px;
+   left: 0px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 500px;
+   opacity: 0.9;
+
+}
+
+
+
+.btn{
+
+   width: 190px;
+   height: 40px;
+   border: none;
+   outline: none;
+   border: 2px solid #AE0F48;
+   background: transparent;
+   font-size: 25px;
+   color: #AE0F48;
+   font-family: arial black;
+   text-shadow: 0px 0px 3px #AE0F48;
+   box-shadow: 0px 0px 8px #AE0F48;
+   position: absolute;
+   top: 30%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   opacity: 0.7;
+   display: inline-block;
+
+}
+
+
+.vid{
+
+   position: absolute;
+   top: 45%;
+   left: 35%;
+
+}
+
+
+
+.txt{
+
+
+   font-family: 'Doppio One';
+   font-size: 30px;
+   color: #AE0F48;
+   letter-spacing: 2px;
+   position: absolute;
+   top: 25%;
+   left: 32%;
+   transform: translate(-50%,-50%);
+   z-index: 9999;
+   opacity: 0.5;
+}
+
+
+
+.txt2{
+
+
+   font-family: 'Doppio One';
+   font-size: 25px;
+   color: white;
+   letter-spacing: 2px;
+   position: absolute;
+   top: 32%;
+   left: 26%;
+   transform: translate(-50%,-50%);
+   z-index: 9999;
+   opacity: 0.5;
+}
+
+
+
+.vid2{
+
+   position: absolute;
+   top: 115%;
+   left: 35%;
+
+}
+
+
+
+.txt3{
+
+
+   font-family: 'Doppio One';
+   font-size: 30px;
+   color: #AE0F48;
+   letter-spacing: 2px;
+   position: absolute;
+   top: 95%;
+   left: 31%;
+   transform: translate(-50%,-50%);
+   z-index: 9999;
+   opacity: 0.5;
+}
+
+
+
+.txt4{
+
+
+   font-family: 'Doppio One';
+   font-size: 25px;
+   color: white;
+   letter-spacing: 2px;
+   position: absolute;
+   top: 102%;
+   left: 31%;
+   transform: translate(-50%,-50%);
+   z-index: 9999;
+   opacity: 0.5;
+}
+
+
+
+
+.vid3{
+
+   position: absolute;
+   top: 187%;
+   left: 35%;
+
+}
+
+
+
+.txt5{
+
+
+   font-family: 'Doppio One';
+   font-size: 30px;
+   color: #AE0F48;
+   letter-spacing: 2px;
+   position: absolute;
+   top: 165%;
+   left: 27%;
+   transform: translate(-50%,-50%);
+   z-index: 9999;
+   opacity: 0.5;
+}
+
+
+
+.txt6{
+
+
+   font-family: 'Doppio One';
+   font-size: 25px;
+   color: white;
+   letter-spacing: 2px;
+   position: absolute;
+   top: 172%;
+   left: 40.5%;
+   transform: translate(-50%,-50%);
+   z-index: 9999;
+   opacity: 0.5;
+}
+
+
+
+.txt7{
+
+
+   font-family: 'Doppio One';
+   font-size: 15px;
+   color: white;
+   letter-spacing: 2px;
+   position: absolute;
+   top: 230%;
+   left: 12%;
+   right: 12%;
+   z-index: 9999;
+   opacity: 0.5;
+}
+
+
+
+
+.hm{
+
+
+   font-family: 'Doppio One';
+   font-size: 20px;
+   color: #AE0F48;
+   letter-spacing: 2px;
+   position: absolute;
+   top: 224%;
+   left: 89%;
+   border: 2px solid #AE0F48;
+   padding: 10px;
+   transform: translate(-50%,-50%);
+   z-index: 9999;
+}

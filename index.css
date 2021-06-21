@@ -1,0 +1,104 @@
+body{
+
+   background: radial-gradient(#201422 2px,transparent 2px);
+   background-color: #130715;
+   background-size: 35px 35px;
+   margin: 0px;
+
+}
+
+
+.main{
+
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   overflow: hideden;
+
+}
+
+
+
+.glitch{
+
+   position: absolute;
+   width: 100%;
+   height: 40%;
+   top: 0px;
+   left: 0px;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: 500px;
+   opacity: 0.9;
+
+}
+
+
+
+img{
+
+  width: 250px;
+  height: 350px;
+  position: absolute;
+  top: 100%;
+  left: 43%;
+}
+
+
+.txt{
+
+  font-size: 18px;
+  color: white;
+  font-family: arial black;
+  text-shadow: 0px 0px 3px white;
+  position: absolute;
+  top: 140%;
+  left: 57%;
+
+}
+
+
+.abt{
+
+
+   font-family: 'Doppio One';
+   font-size: 30px;
+   color: white;
+   letter-spacing: 25px;
+   position: absolute;
+   top: 90%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   z-index: 9999;
+}
+
+
+.scl{
+
+
+   font-family: 'Doppio One';
+   font-size: 30px;
+   color: white;
+   letter-spacing: 25px;
+   position: absolute;
+   top: 110%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   z-index: 9999;
+}
+
+
+
+.vid{
+
+
+   font-family: 'Doppio One';
+   font-size: 30px;
+   color: white;
+   letter-spacing: 25px;
+   position: absolute;
+   top: 100%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   z-index: 9999;
+}
